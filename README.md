@@ -1,7 +1,10 @@
 # thatjayyy
-Bit of an oof won't lie 😗
+Elementary, my dear Watson.
 
-### Languages you may find me writing in
-- Javascript
+## "Skills"
+- Adobe InDesign
+- Adobe Illustrator
+- Adobe Photoshop (just about)
 - HTML
 - CSS
+- Javascript
